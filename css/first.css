@@ -1,0 +1,396 @@
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    font-size: 38px;
+}
+.img1{
+    width: 80%;
+}
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+@media(max-width:768px){
+    .img1{
+        width: 100%;
+    }
+}
+.w{
+    background-image: url("https://www.firstfiddle.in/assets/images/bannerabout.jpg");
+    width: 100%;
+    height: 500px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+}
+.ml-1{
+    margin-top: 102px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.wid{
+    width: 95%;
+}
+.w2{
+    background-image: url("https://www.firstfiddle.in/assets/images/outletbanner.png");
+    width: 100%;
+    height: 500px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px !important;
+    background-size: cover;
+}
+@media(max-width:750px){
+    .w2{
+        height: 550px;
+    }
+}
+.mainfooter{
+    background-color: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+.image{
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 30px;
+    width: 50%;
+}
+.col{
+    color: #fbaa1a;
+}
+.bold{
+    font-weight: 400;
+    font-size: 19px;
+}
+.p1{
+    line-height: 40px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+.p2{
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+    line-height: 25px;
+} 
+.abc a{
+    color: white;
+    text-decoration: none;
+}
+.abc h6{
+    font-weight: 400;
+    margin-top: 5px;
+}
+.weblog{
+    width: 65px;
+}
+.navbar{
+    background: #0000009c!important;
+  }
+  .navbar-nav li
+  {
+   padding: 0 10px;
+  }
+.navbar-nav li a
+ {
+   color: #fff!important;
+   font-weight: 500;
+   font-size: 16px;
+  }
+  
+@media(max-width:760px){
+    .image{
+        width: 65%;
+    }
+}
+.ourstory{
+    letter-spacing: 2.6px;
+    font-weight: 600;
+    font-family: prague;
+    color: white;
+    font-size: 75px;
+    padding-top: 270px;
+    padding-bottom: 270px;
+    }
+    .abcd{
+        width: 100%;
+        background-image: url("../image/mainbanner.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+	    background-size: cover;
+    }
+    .back{
+        background-image: url("https://www.firstfiddle.in/assets/images/gamebanner.jpg");
+    width: 100%;
+    height: 425px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    }
+    @media(max-width:760px){
+        .ourstory{
+            padding-top: 180px;
+            font-size: 55px;
+           
+        }
+        .abcd{
+            background-image: url("/image/banner.jpg");
+            width: 100%;
+            padding-top: 50px;
+       }
+        .banner1{
+            display: none;
+        }
+        .game{
+            margin-bottom: 150px;
+        }
+        .ml-1{
+            margin-top: 60px;
+        }
+    }
+    .brand{
+        background-image: url("https://www.firstfiddle.in/assets/images/brands.jpg");
+        width: 100%;
+        height: 630px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .heading-brand{
+        letter-spacing: 2.6px;
+        font-family: prague;
+        color: white;
+        font-size: 130px;
+        padding-top: 245px;
+        padding-bottom: 270px;
+    }
+    @media(max-width:760px){
+        .heading-brand{
+            font-size: 105px;
+        }
+        .brand{
+            background-image: url("https://www.firstfiddle.in/assets/images/brands-mob.png");
+            width: 100%;
+       }
+    }
+    .ourteam{
+        background-image: url("https://www.firstfiddle.in/assets/images/new-our-team.jpg");
+        width: 100%;
+        height: 630px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .heading-ourteam{
+        font-family: prague;
+        color: white;
+        font-size: 95px;
+        padding-top: 255px;
+        padding-bottom: 270px;
+    }
+    @media(max-width:760px){
+        .heading-ourteam{
+            font-size: 65px;
+        }
+        .ourteam{
+            background-image: url("https://www.firstfiddle.in/assets/images/new-our-team-mob.jpg");
+            width: 100%;
+       }
+       .rowname{
+        padding-right: 10px!important;
+        padding-left: 10px!important;
+        padding-top: 40px!important;
+       }
+       .name{
+        margin-left: 47px!important;
+       }
+       .name1{
+        margin-left: 80px!important;
+       }
+    }
+    .rowname{
+        padding-right: 100px;
+        padding-left: 40px;
+        padding-top: 40px;
+    }
+    .pd{
+        padding-right: 40px;
+        padding-left: 40px;
+        padding-top: 40px;
+    }
+    .name{
+        align-items: center;
+        margin-top: -70px;
+        background-color: #1f20202b;
+        margin-left: 100px;
+    }
+    .name1{
+        align-items: center;
+        margin-top: -70px;
+        background-color: #1f20202b;
+        margin-left: 140px;
+    }
+    .press{
+        background-image: url("https://www.firstfiddle.in/assets/images/press-new-1.jpg");
+        width: 100%;
+        height: 630px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .heading-press{
+        font-family: prague;
+        color: white;
+        font-size: 95px;
+        padding-top: 255px;
+        padding-bottom: 270px;
+    }
+    .news{
+        width: 5%;
+    }
+    .offline{
+        font-size: 17px;
+        font-weight: 300;
+        margin: 2px;
+    }
+    .online-mention{
+        margin: 30px 100px 80px 100px;
+        padding: 50px;
+        height: 600px;
+        overflow-y: hidden;
+    }
+    .para{
+        overflow-y: scroll;
+    }
+    .para p{
+        line-height: 28px;
+        letter-spacing: 1px;
+    }
+    .para::-webkit-scrollbar{
+        width: 1rem;
+    }
+    .para::-webkit-scrollbar-track{
+        background-color: #f3e3c5;
+        border-radius: 1rem;
+    }
+    .para::-webkit-scrollbar-thumb{
+        background-color: #fba929;
+        border-radius: 1rem;
+        border: 3px solid transparent;
+        background-clip: content-box;
+    }
+    @media(max-width:760px){
+        .heading-press{
+            font-size: 65px;
+        }
+        .press{
+            background-image: url("https://www.firstfiddle.in/assets/images/New-PRESS-1.jpg");
+            width: 100%;
+       }
+       .online-mention{
+        margin: 0px 0px 0px 0px;
+        padding: 10px;
+    }
+    
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .contactus{
+        background-image: url("https://www.firstfiddle.in/assets/images/CONTACT-US.jpg");
+        width: 100%;
+        height: 630px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .heading-contact{
+        font-family: prague;
+        color: white;
+        font-size: 100px;
+        padding-top: 255px;
+        padding-bottom: 270px;
+    }
+    @media(max-width:670px){
+        .contactus{
+            background-image: url("https://www.firstfiddle.in/assets/images/CONTACT-US-2-mob.jpg");
+            width: 100%;
+            height: 530px;
+        }
+        .heading-contact{
+            font-size: 58px;
+            padding-top: 220px;
+        }
+        
+        .left{
+            padding-left: 5px!important;
+        }
+    }
+    .btn{
+        padding: 10px 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .message{
+        font-weight: 100;
+    }
+    .form-control{
+        font-size: 1.1rem!important;
+    }
+    .left{
+        padding-left: 35px;
+    }
+    .careers{
+        background-image: url("https://www.firstfiddle.in/assets/images/new-careers-1.jpg");
+        width: 100%;
+        height: 630px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .heading-careers{
+        font-family: prague;
+        color: white;
+        font-size: 95px;
+        padding-top: 255px;
+        padding-bottom: 270px;
+    }
+    .curve{
+        padding-right: 10px;
+    }
+    .para{
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        line-height: 25px;
+        font-weight: 100;
+        font-size: 18px;
+    }
+    .label{
+        font-weight: 100;
+        font-size: 18px;
+    }
+    @media(max-width:760px){
+        .heading-careers{
+            font-size: 65px;
+        }
+        .careers{
+            background-image: url("https://www.firstfiddle.in/assets/images/new-careers-1-mob.jpg");
+            width: 100%;
+       }
+    }
